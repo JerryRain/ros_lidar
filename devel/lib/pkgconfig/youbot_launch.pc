@@ -1,0 +1,8 @@
+prefix=/home/rain/x4_ws/devel
+
+Name: youbot_launch
+Description: Description of youbot_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rain/x4_ws/devel/lib 
+Requires: 

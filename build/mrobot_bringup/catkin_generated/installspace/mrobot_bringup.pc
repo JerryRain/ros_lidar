@@ -1,0 +1,8 @@
+prefix=/home/rain/x4_ws/install
+
+Name: mrobot_bringup
+Description: Description of mrobot_bringup
+Version: 0.0.0
+Cflags: -I/home/rain/x4_ws/install/include
+Libs: -L/home/rain/x4_ws/install/lib 
+Requires: 

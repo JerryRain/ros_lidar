@@ -1,0 +1,8 @@
+prefix=/home/rain/x4_ws/install
+
+Name: youbot_navigation
+Description: Description of youbot_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rain/x4_ws/install/lib 
+Requires: 
